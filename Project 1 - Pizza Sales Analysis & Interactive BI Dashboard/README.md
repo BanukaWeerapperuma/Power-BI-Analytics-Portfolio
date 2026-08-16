@@ -8,9 +8,25 @@ I recently completed this end-to-end Business Intelligence project, where I tran
 
 ## 🎥 Project Demonstration & Overview
 
-Watch the walkthrough video of the interactive dashboard on LinkedIn:
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>Main Dashboard</b><br><br>
+      <a href="./Dashboards/Home-DashBoard.jpg">
+        <img src="./Dashboards/Home-DashBoard.jpg" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <b>Best & Worst Sellers</b><br><br>
+      <a href="./Dashboards/Best_Worst_Sellers.jpg">
+        <img src="./Dashboards/Best_Worst_Sellers.jpg" width="100%"/>
+      </a>
+    </td>
+   
+  </tr>
+</table>
 
-[![Watch Video on LinkedIn](https://img.shields.io/badge/Watch-%F0%9F%93%BA%20LinkedIn%20Video-blue?style=for-the-badge)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7482067263232049153)
+🔗 [View original video post directly on LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7482067263232049153)
 
 ---
 
@@ -50,8 +66,9 @@ This project helped me strengthen my skills in:
 ## 📂 Project Structure & Files
 
 * **`Dashboards/`** — Exported visual reports and snapshots:
-  * [`Home-Dashboard.jpg`](./Dashboards/Home-Dashboard.jpg) — Main overview page.
-  * [`Best_Worst_Sellers.jpg`](./Dashboards/Best_Worst_Sellers.jpg) — Breakdown analysis of top/bottom performing items.
+  * [`Home-DashBoard.jpg`](./Dashboards/Home-DashBoard.jpg) — Main overview page.
+  * [`Best_Worst_Sellers.jpg`](./Dashboards/Best_Worst_Sellers.jpg) — Best and worst-selling items analysis.
+  * [`video.mp4`](./Dashboards/video.mp4) — Project walkthrough recording.
 * **`sql/`** — Database scripts and queries:
   * [`SqlQuery1.sql`](./sql/SqlQuery1.sql) — SQL scripts used for data cleaning and KPI generation.
 * **`pizza_sales.csv`** — The raw source dataset.
