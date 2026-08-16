@@ -32,7 +32,7 @@ A comprehensive data analysis project measuring restaurant sales performance, id
 * **Key Highlights:** Revenue trends, peak ordering hours, top/bottom-selling pizzas, and category breakdown.
 * **Tech Stack:** Power BI, SQL, CSV, `.pbix`
 
-[📂 View Full Project 1 Details & Files](./Project%201%20-%20Pizza%20Sales%20Analysis%20&%20Interactive%20BI%20Dashboard/README.md)
+[📂 View Full Project 1 Details & Files](Project%201%20-%20Pizza%20Sales%20Analysis%20%26%20Interactive%20BI%20Dashboard/README.md)
 
 </details>
 
@@ -53,5 +53,5 @@ An advanced financial reporting dashboard focused on tracking cash flow, profita
 
 ## 🔗 Quick Navigation & Links
 
-* [Pizza Sales Project Directory](./Project%201%20-%20Pizza%20Sales%20Analysis%20&%20Interactive%20BI%20Dashboard/)
+* [Pizza Sales Project Directory](./Project%201%20-%20Pizza%20Sales%20Analysis%20%26%20Interactive%20BI%20Dashboard/README.md)
 * [Finance Analytics Project Directory](./Project%202%20-%20Finance%20Analytics%20Dashboard/)
