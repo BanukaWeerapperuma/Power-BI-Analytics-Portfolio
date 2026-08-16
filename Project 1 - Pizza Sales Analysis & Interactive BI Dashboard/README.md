@@ -6,7 +6,7 @@ I recently completed this end-to-end Business Intelligence project, where I tran
 
 ---
 
-## 🎥 Project Demonstration & Overview
+## Project Demonstration & Overview
 
 <table>
   <tr>
@@ -38,19 +38,19 @@ I recently completed this end-to-end Business Intelligence project, where I tran
 
 ---
 
-## 🛠️ Project Workflow & Technical Tasks
+## Project Workflow & Technical Tasks
 
 Throughout this project, I worked on:
 
-* 🔹 Importing and managing data using **SQL**.
-* 🔹 Writing SQL queries to generate key business KPIs.
-* 🔹 Connecting the SQL Database directly with **Power BI**.
-* 🔹 Cleaning and transforming data using **Power Query**.
-* 🔹 Creating interactive KPI cards and comprehensive dashboards.
-* 🔹 Visualizing daily and monthly sales trends.
-* 🔹 Analyzing sales by pizza category and size.
-* 🔹 Identifying the best and worst-selling pizzas.
-* 🔹 Adding business insights and navigation buttons for a better user experience.
+* Importing and managing data using **SQL**.
+* Writing SQL queries to generate key business KPIs.
+* Connecting the SQL Database directly with **Power BI**.
+* Cleaning and transforming data using **Power Query**.
+* Creating interactive KPI cards and comprehensive dashboards.
+* Visualizing daily and monthly sales trends.
+* Analyzing sales by pizza category and size.
+* Identifying the best and worst-selling pizzas.
+* Adding business insights and navigation buttons for a better user experience.
 
 ---
 
