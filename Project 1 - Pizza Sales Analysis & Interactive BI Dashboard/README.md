@@ -10,19 +10,19 @@ I recently completed this end-to-end Business Intelligence project, where I tran
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <b>Dashboard Preview</b><br><br>
+    <td align="center" width="33%">
+      <b>Main Dashboard</b><br><br>
       <a href="./Dashboards/Home-DashBoard.jpg">
         <img src="./Dashboards/Home-DashBoard.jpg" width="100%"/>
       </a>
     </td>
-    <td align="center" width="50%">
-      <b>Video Walkthrough</b><br><br>
-      <video width="100%" controls>
-        <source src="./Dashboards/video.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+    <td align="center" width="33%">
+      <b>Best & Worst Sellers</b><br><br>
+      <a href="./Dashboards/Best_Worst_Sellers.jpg">
+        <img src="./Dashboards/Best_Worst_Sellers.jpg" width="100%"/>
+      </a>
     </td>
+   
   </tr>
 </table>
 
@@ -67,7 +67,7 @@ This project helped me strengthen my skills in:
 
 * **`Dashboards/`** — Exported visual reports and snapshots:
   * [`Home-DashBoard.jpg`](./Dashboards/Home-DashBoard.jpg) — Main overview page.
-  * [`Best_Worst_Sellers.jpg`](./Dashboards/Best_Worst_Sellers.jpg) — Breakdown analysis of top/bottom performing items.
+  * [`Best_Worst_Sellers.jpg`](./Dashboards/Best_Worst_Sellers.jpg) — Best and worst-selling items analysis.
   * [`video.mp4`](./Dashboards/video.mp4) — Project walkthrough recording.
 * **`sql/`** — Database scripts and queries:
   * [`SqlQuery1.sql`](./sql/SqlQuery1.sql) — SQL scripts used for data cleaning and KPI generation.
