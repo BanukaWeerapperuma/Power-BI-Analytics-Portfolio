@@ -45,7 +45,7 @@ An advanced financial reporting dashboard focused on tracking cash flow, profita
 * **Key Highlights:** Profit-and-loss tracking, budget vs. actual variance, predictive forecasting metrics.
 * **Tech Stack:** Power BI, SQL, CSV, `.pbix`
 
-[📂 View Full Project 2 Details & Files](./Project%202%20-%20Finance%20Analytics%20Dashboard/README.md)
+[📂 View Full Project 2 Details & Files](Project%202%20-%20Finance%20Analytics%20Dashboard/README.md)
 
 </details>
 
@@ -54,4 +54,4 @@ An advanced financial reporting dashboard focused on tracking cash flow, profita
 ## 🔗 Quick Navigation & Links
 
 * [Pizza Sales Project Directory](./Project%201%20-%20Pizza%20Sales%20Analysis%20%26%20Interactive%20BI%20Dashboard/README.md)
-* [Finance Analytics Project Directory](./Project%202%20-%20Finance%20Analytics%20Dashboard/)
+* [Finance Analytics Project Directory](Project%202%20-%20Finance%20Analytics%20Dashboard/README.md)
