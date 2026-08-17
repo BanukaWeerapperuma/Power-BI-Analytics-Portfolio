@@ -50,8 +50,6 @@ An advanced business intelligence dashboard built to monitor and analyze overall
 
 </details>
 
-[📂 View Full Project 2 Details & Files](Project%202%20-%20Finance%20Analytics%20Dashboard/README.md)
-
 </details>
 
 ---
