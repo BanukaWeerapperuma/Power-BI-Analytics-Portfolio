@@ -12,8 +12,9 @@ This portfolio serves as a centralized hub for my business intelligence work. Ea
 
 ## 🛠️ Technologies & Tools
 
+* **Data Engineering & Analytics Platform:** Microsoft Fabric (Lakehouse, Data Warehouse)
 * **Data Visualization & BI:** Power BI, DAX, Power Query
-* **Database & Querying:** MySQL, Relational Modeling
+* **Database & Querying:** SQL, Relational Modeling
 * **Data Processing & Formats:** CSV, Excel
 * **Version Control & Documentation:** Git, GitHub Markdown
 
@@ -37,13 +38,17 @@ A comprehensive data analysis project measuring restaurant sales performance, id
 </details>
 
 <details>
-<summary><b>Project 2: Finance Analytics Dashboard</b> (Click to Expand)</summary>
+<summary><b> Project 2: Finance Analytics Dashboard</b> (Click to Expand)</summary>
 
 ### Finance Analytics Dashboard
-An advanced financial reporting dashboard focused on tracking cash flow, profitability metrics, expense ratios, and variance analysis.
+An advanced business intelligence dashboard built to monitor and analyze overall financial transactions, customer behavior, operational fees, taxes, and performance across different business segments and regions.
 
-* **Key Highlights:** Profit-and-loss tracking, budget vs. actual variance, predictive forecasting metrics.
-* **Tech Stack:** Power BI, SQL, CSV, `.pbix`
+* **Key Highlights:** Real-time KPI tracking (Total Amount, Transactions, Avg Value, Fees, Tax), YoY growth analysis, customer segment and state performance breakdown, and transaction status monitoring (Success, Failed, Pending).
+* **Tech Stack:** Power BI, DAX, Power Query, CSV, `.pbix`
+
+[📂 View Full Project 2 Details & Files](./Project%202%20-%20Finance%20Analytics%20Dashboard/README.md)
+
+</details>
 
 [📂 View Full Project 2 Details & Files](Project%202%20-%20Finance%20Analytics%20Dashboard/README.md)
 
