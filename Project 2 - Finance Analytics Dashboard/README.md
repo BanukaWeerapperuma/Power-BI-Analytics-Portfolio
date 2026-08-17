@@ -1,10 +1,10 @@
-# 💰 Project 2: Finance Analytics Dashboard & Business Intelligence Solution
+# Project 2: Finance Analytics Dashboard & Business Intelligence Solution
 
 An end-to-end business intelligence analytics project built to monitor and analyze overall financial transactions, customer behavior, fees, taxes, and transaction performance across different business segments and regions.
 
 ---
 
-## 🎥 Project Demonstration & Overview
+## Project Demonstration & Overview
 
 <table>
   <tr>
@@ -23,7 +23,7 @@ An end-to-end business intelligence analytics project built to monitor and analy
      </tr>
 </table>
 
-🔗 [View original video post directly on LinkedIn](https://www.linkedin.com/feed/update/urn:li:ugcPost:7482067263232049153)
+🔗 [View original video post directly on LinkedIn](https://lnkd.in/p/g7izVc6i)
 
 
 ---
